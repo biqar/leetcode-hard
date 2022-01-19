@@ -1,4 +1,4 @@
-# leetcode</br>![Language](https://img.shields.io/badge/language-c++-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biqar.leetcode.hard)
+# leetcode-hard</br>![Language](https://img.shields.io/badge/language-c++-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=biqar.leetcode.hard)
 Collection of my solutions and analysis for problems on leetcode
 
 | # | Title | Solution | Time | Space | Tag | One-Liner |
