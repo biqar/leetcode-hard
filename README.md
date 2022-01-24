@@ -32,6 +32,7 @@ Collection of my solutions and analysis for problems on leetcode
 |1192| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1203| [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1293| [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)| [C++](#) | _O()_ | _O()_ | N/A | |
+|1345| [Jump Game IV](https://leetcode.com/problems/jump-game-iv)| [C++](#) | _O(n)_ | _O(n)_ | BFS/Bidirectional BFS | Can you omit the recurring insertion of nodes in the queue? |
 |1463| [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1473| [Paint House III](https://leetcode.com/problems/paint-house-iii)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1483| [Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)| [C++](#) | _O()_ | _O()_ | N/A | |
@@ -49,3 +50,6 @@ Collection of my solutions and analysis for problems on leetcode
 |1675| [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1697| [Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths)| [C++](#) | _O()_ | _O()_ | N/A | |
 |1723| [Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs)| [C++](#) | _O()_ | _O()_ | N/A | |
+|2141| [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)| [C++](#) | _O(n * log(n))_ | _O(1)_ | Binary Search |  |
+|2147| [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor)| [C++](#) | _O(n)_ | _O(n)_ | Ad-hoc | Calculate gaps in every two-seat segments |
+|2151| [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements)| [C++](#) | _O(2^n)_ | _O(n)_ | Graph Traversal | If we know an assignment of goodness/badness of each vertices, can we validate that? |
