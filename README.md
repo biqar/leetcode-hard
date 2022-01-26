@@ -16,6 +16,7 @@ Collection of my solutions and analysis for problems on leetcode
 |212| [Word Search II](https://leetcode.com/problems/word-search-ii)| [C++](#) | _O()_ | _O()_ | N/A | |
 |224| [Basic Calculator](https://leetcode.com/problems/basic-calculator)| [C++](#) | _O()_ | _O()_ | N/A | |
 |332| [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary)| [C++](#) | _O()_ | _O()_ | N/A | |
+|352| [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)| [C++](#) | _O()_ | _O()_ | N/A | |
 |381| [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)| [C++](#) | _O()_ | _O()_ | N/A | |
 |765| [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands)| [C++](#) | _O()_ | _O()_ | N/A | |
 |773| [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)| [C++](#) | _O()_ | _O()_ | N/A | |
